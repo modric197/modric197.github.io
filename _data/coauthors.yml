@@ -1,34 +1,38 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Tu":
+  - firstname: ["Zhuowen", "Z."]
+    url: https://pages.ucsd.edu/~ztu/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Ding":
+  - firstname: ["Zheng", "Z."]
+    url: https://scholar.google.com/citations?user=TOYBXFQAAAAJ&hl=en
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Zhang":
+  - firstname: ["Xiang", "X."]
+    url: https://xzhang.dev/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Chen":
+  - firstname: ["Zeyuan", "Z."]
+    url: https://zeyuan-chen.com/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Xu":
+  - firstname: ["Haiyang", "H."]
+    url: https://scholar.google.com/citations?user=ds8ZvyMAAAAJ&hl=en
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Sha":
+  - firstname: ["Zhizhou", "Z."]
+    url: https://jamessand.github.io/
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Wang":
+  - firstname: ["Zirui", "Z."]
+    url: https://zwcolin.github.io/
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Zhong":
+  - firstname: ["Liangjun", "L."]
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Lei":
+  - firstname: ["Yu", "Y."]
+    url: https://theknight-z.github.io/
+
+"Su":
+  - firstname: ["Hao", "H."]
+    url: https://cseweb.ucsd.edu/~haosu/
