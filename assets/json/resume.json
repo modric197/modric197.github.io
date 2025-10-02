@@ -1,5 +1,5 @@
 {
-  "Basics": {
+  "basics": {
     "name": "Yilin Wang",
     "label": "Ph.D. Student",
     "image": "",
@@ -16,7 +16,7 @@
     "profiles": [
     ]
   },
-  "Education": [
+  "education": [
     {
       "institution": "University of California San Diego",
       "location": "San Diego, California",
@@ -40,7 +40,7 @@
       "courses": []
     }
   ],
-  "Work Experience": [
+  "work": [
     {
       "name": "University of California San Diego",
       "location": "San Diego, California",
@@ -82,7 +82,7 @@
       "summary": "Advised by Prof. Fei Jiang and Prof. Srikantan Nagarajan. Worked on detecting tinnitus based on FMRI images using statistical methods."
     }
   ],
-  "Research Interests": [
+  "interests": [
     {
       "name": "Robotics",
       "keywords": [
@@ -97,7 +97,7 @@
       ]
     }
   ],
-  "Awards": [
+  "awards": [
     {
       "title": "Athletic Scholarship of Tsinghua University",
       "date": "2021, 2022, 2023"
@@ -111,7 +111,7 @@
       "date": "2019"
     }
   ],
-  "Languages": [
+  "languages": [
     {
       "language": "Mandarin Chinese",
       "fluency": "Native"
@@ -125,7 +125,7 @@
       "fluency": "Fluent"
     }
   ],
-  "Hobbies": [
+  "hobbies": [
     {
       "name": "Soccer",
       "keywords": [
