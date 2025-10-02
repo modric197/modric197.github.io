@@ -11,9 +11,9 @@
   contents:
     - title: PhD Student
       institution: University of California, San Diego, USA
-      year: 2024-
+      year: 2024.9-Present
       description:
-        - Department: Computer Science and Engineering
+        - "Department": Computer Science and Engineering
         - Advisor: Prof. Hao Su
         - Research Interests: Robot Manipulation, Computer Vision, Deep Learning
         - GPA: 4.00/4.00
@@ -41,7 +41,7 @@
         - Conducted research on vision generative models.
     - title: Research Intern
       institution: Hillbot Inc., Beijing, China & San Diego, USA
-      year: 2024.6-2024.9, 2025.6-2025.9
+      year: 2024.6-2024.9, \\2025.6-2025.9
       description:
         - Helped to develop sim-to-real robot manipulation pipelines.
     - title: Research Intern
