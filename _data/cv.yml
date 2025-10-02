@@ -2,96 +2,80 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Yilin Wang
     - name: Languages
-      value: English, German
+      value: Mandarin Chinese, Catonese, English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD Student
+      institution: University of California, San Diego, USA
+      year: 2024-
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Department: Computer Science and Engineering
+        - Advisor: Prof. Hao Su
+        - Research Interests: Robot Manipulation, Computer Vision, Deep Learning
+        - GPA: 4.00/4.00
+    - title: B.Eng. in Computer Science and Technology
+      institution: Tsinghua University, Beijing, China
+      year: 2020-2024
       description:
-        - Description 1.
-        - Description 2.
+        - Department: Yao Class, Institute for Interdisciplinary Information Sciences
+        - GPA: 3.76/4.00
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Graduate Student Researcher
+      institution: University of California, San Diego, USA
+      year: 2024.9-
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Advisor: Prof. Hao Su
+        - Conducted research on robot manipulation.
+    - title: Research Intern
+      institution: University of California, San Diego, USA
+      year: 2023.3-2023.9
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Advisor: Prof. Zhuowen Tu
+        - Conducted research on vision generative models.
+    - title: Research Intern
+      institution: Hillbot Inc., Beijing, China & San Diego, USA
+      year: 2024.6-2024.9, 2025.6-2025.9
       description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+        - Helped to develop sim-to-real robot manipulation pipelines.
+    - title: Research Intern
+      institution: University of California, San Francisco, USA
+      year: 2022.12-2023.2
+      description:
+        - Advisor: Prof. Fei Jiang & Prof. Srikantan Nagarajan
+        - Helped to build a pipeline for detecting tinnitus based on FMRI images using statistical methods.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2021, 2022, 2023
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Athletic Scholarship of Tsinghua University
+    - year: 2020
       items:
-        - Max Planck Medal
+        - Freshmen Scholarship of Tsinghua University
+    - year: 2019
+      items:
+        - Gold medal (national selection team), 35th China Mathematical Olympiad (CMO)
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Robotics
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Sim-to-real transfer
+        - Robot manipulation
+    - title: Computer Vision
       items:
-        - Description 1.
-        - Description 2.
+        - Generative models
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Soccer (member of Tsinghua University Men's Football Team, Captain of IIIS Football Team), Badminton (member of IIIS Badminton Team), Go (amateur 2-dan).
