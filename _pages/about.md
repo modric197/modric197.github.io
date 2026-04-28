@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm currently a second year PhD. student at Computer Science and Engineering Department at UC San Diego, where I am fortunately advised by Prof. Zhuowen Tu, and I previously worked with Prof. Hao Su. Previously, I obtained my B.Eng. degree in Computer Science and Technology from Yao Class, Tsinghua University. 
+I'm currently a second year PhD. student at Computer Science and Engineering Department at UC San Diego, where I am fortunately advised by Prof. Zhuowen Tu, and I previously worked with Prof. Hao Su. I obtained my B.Eng. degree in Computer Science and Technology from Yao Class, Tsinghua University. 
 
 I'm an incoming applied scientist intern during summer 2026. I worked as a research intern at Hillbot Inc. (2024&2025 summer), and I was also a research intern at UC San Diego, supervised by Prof. Zhuowen Tu (2023 spring&summer).
 
