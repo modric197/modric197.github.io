@@ -28,7 +28,7 @@ latest_posts:
 
 I'm currently a second year PhD. student at Computer Science and Engineering Department at UC San Diego, where I am fortunately advised by Prof. Zhuowen Tu, and I previously worked with Prof. Hao Su. I obtained my B.Eng. degree in Computer Science and Technology from Yao Class, Tsinghua University. 
 
-I'm an incoming applied scientist intern during summer 2026. I worked as a research intern at Hillbot Inc. (2024&2025 summer), and I was also a research intern at UC San Diego, supervised by Prof. Zhuowen Tu (2023 spring&summer).
+I'm an incoming applied scientist intern at Amazon Robotics during summer 2026. I worked as a research intern at Hillbot Inc. (2024&2025 summer), and I was also a research intern at UC San Diego, supervised by Prof. Zhuowen Tu (2023 spring&summer).
 
 **Research Interest**: My research interests lies on the intersection of **Robotics**, **Computer Vision** and **Maching Learning**, with particular focus on sim-to-real robot manipulation and generative models.
 
