@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm currently a second year PhD. student at Computer Science and Engineering Department at UC San Diego, where I am fortunately advised by Prof. <a href='https://pages.ucsd.edu/~ztu/'>Zhuowen Tu</a> and Prof. <a href='https://hichristensen.com/'>Henrik Christensen</a>, and I previously worked with Prof. <a href='https://cseweb.ucsd.edu/~haosu/index.html'>Hao Su</a>. I also work closely with Prof. <a href='https://ruoshiliu.github.io/'>Ruoshi Liu</a> at University of Maryland, College Park. I obtained my B.Eng. degree in Computer Science and Technology from Yao Class, Tsinghua University.
+I'm currently a third year PhD. student at Computer Science and Engineering Department at UC San Diego, where I am fortunately advised by Prof. <a href='https://pages.ucsd.edu/~ztu/'>Zhuowen Tu</a> and Prof. <a href='https://hichristensen.com/'>Henrik Christensen</a>, and I previously worked with Prof. <a href='https://cseweb.ucsd.edu/~haosu/index.html'>Hao Su</a>. I also work closely with Prof. <a href='https://ruoshiliu.github.io/'>Ruoshi Liu</a> at University of Maryland, College Park. I obtained my B.Eng. degree in Computer Science and Technology from Yao Class, Tsinghua University.
 
 I worked as an applied scientist intern at Fauna Group, Amazon Inc. during summer 2026, and also as a research intern at Hillbot Inc. (2024&2025 summer). Previously, I was a research intern at UC San Diego, supervised by Prof. Zhuowen Tu (2023 spring&summer).
 
