@@ -33,4 +33,3 @@ I worked as an applied scientist intern at Fauna Group, Amazon Inc. during summe
 **Research Interest**: My research interests lies on the intersection of **Robotics**, **Computer Vision** and **Maching Learning**, with particular focus on sim-to-real robot manipulation and generative models.
 
 Please feel free to contact me via e-mail (yiw215 [at] ucsd [dot] edu).
-

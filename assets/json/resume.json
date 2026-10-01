@@ -13,8 +13,7 @@
       "countryCode": "US",
       "region": "California"
     },
-    "profiles": [
-    ]
+    "profiles": []
   },
   "education": [
     {
@@ -85,16 +84,11 @@
   "interests": [
     {
       "name": "Robotics",
-      "keywords": [
-        "Robot Manipulation",
-        "Sim-to-Real Transfer"
-      ]
+      "keywords": ["Robot Manipulation", "Sim-to-Real Transfer"]
     },
     {
       "name": "Computer Vision",
-      "keywords": [
-        "Generative Models"
-      ]
+      "keywords": ["Generative Models"]
     }
   ],
   "awards": [
@@ -137,15 +131,11 @@
     },
     {
       "name": "Badminton",
-      "keywords": [
-        "Member of IIIS Badminton Team"
-      ]
+      "keywords": ["Member of IIIS Badminton Team"]
     },
     {
       "name": "Go",
-      "keywords": [
-        "Amateur 2-dan"
-      ]
+      "keywords": ["Amateur 2-dan"]
     }
   ]
 }
